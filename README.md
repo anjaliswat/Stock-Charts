@@ -9,3 +9,8 @@ you want to display can be changed. You can click on the options shown at the bo
 In the first extra credit question I have calculated the moving average by dividing the total sum of the close prices by the total number of days for each point.
 
 The charting library I chose to use was C3.js.
+
+![alt text](image1.png)
+![alt text](image2.png)
+![alt text](image3.png)
+![alt text](image4.png)
